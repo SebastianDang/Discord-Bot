@@ -1,6 +1,8 @@
 # Discord-Bot
 A Discord C#/.NET Bot 
 
+![Example Image](/img/Discord_Bot_Example.png)
+
 This Discord bot is a chat and voice bot coded in C# with [Discord.Net](https://github.com/discord-net/Discord.Net)
 
 This bot is built to be run on any .NET Framework compatible machine. 
